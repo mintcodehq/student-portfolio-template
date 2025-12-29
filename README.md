@@ -20,7 +20,7 @@ This repository contains the **demo version** of the portfolio used for preview 
 
 ## Live Demo
 
-https://https://student-portfolio-template-ten.vercel.app/
+https://student-portfolio-template-ten.vercel.app/
 
 ---
 
